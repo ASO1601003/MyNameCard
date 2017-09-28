@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNameCard</string>
+    <string name="gakunen">情報工学科　2年</string>
+    <string name="number">1601003</string>
+    <string name="name">上野　颯樹</string>
+    <string name="phone">090-1111-1111</string>
+    <string name="nickname">あだな
+    </string>
+</resources>
